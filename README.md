@@ -1,4 +1,3 @@
-# Excel_HealthcareDashboard_ASmedical
 # Healthcare Dashboard
 
 ![image](https://github.com/user-attachments/assets/bf605afa-e83f-4c66-86e2-e597b69e185c)
